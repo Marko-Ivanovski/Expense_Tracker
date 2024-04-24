@@ -261,3 +261,4 @@ D:\Projects\Youtube Projects\.NET\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0
 D:\Projects\Youtube Projects\.NET\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
 D:\Projects\Youtube Projects\.NET\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
 D:\Projects\Youtube Projects\.NET\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll
+D:\Projects\Youtube Projects\.NET\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.sourcelink.json
